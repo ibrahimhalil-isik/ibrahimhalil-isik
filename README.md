@@ -14,9 +14,10 @@
 <br/>
 
 
-  - ![C#](https://img.shields.io/badge/C%23-%20-333333?style=flat&logo=csharp)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cpp)  
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)  
+  - ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![C#](https://img.shields.io/badge/C%23-%20-333333?style=flat&logo=csharp)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cpp)
+  
   
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)

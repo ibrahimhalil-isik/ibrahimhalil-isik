@@ -1,6 +1,7 @@
 # Hi, I'm İbrahim Halil IŞIK
 
 ##  :electron: I'm a student  👨‍💻 💻
+💬 Hello, I am a student of Electrical and Electronic Engineering at Inönü University. I love software.
 
 <br />
 <br />

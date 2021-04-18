@@ -4,7 +4,6 @@
 💬 Hello, I am a student of Electrical and Electronic Engineering at Inönü University. I love software.
 
 <br />
-<br />
 
  <details>
    <summary>🌠: GitHub Stats</summary>

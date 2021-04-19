@@ -6,8 +6,10 @@
 <br />
 
  <details>
-   <summary>🌠: GitHub Stats</summary>
+   <summary> 🌟 GitHub Stats</summary>
   
+### [![Github](https://img.shields.io/github/followers/ibrahimhalil-isik?label=Follow&style=social)](https://github.com/ibrahimhalil-isik)
+
 ![ibrahim's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimhalil-isik&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimhalil-isik&theme=tokyonight)
 
 </details>

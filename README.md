@@ -2,7 +2,7 @@
 ###### I'm İbrahim Halil
 💬  I'm a student of Electrical and Electronic Engineering at Inönü University and I'm Junior Developer. I really enjoy learning languages and framework like C#,Java,Html,TypeScript and other. 👨‍💻 
 <br/> <br/>
-<h3 align="center"> 🛠 I am interested in working with </h3>
+<h3 align="center"> 🛠 Technologies & Tools 🛠 </h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="30" height="30"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>

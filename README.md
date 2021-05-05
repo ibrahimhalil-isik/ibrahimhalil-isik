@@ -3,13 +3,6 @@
 💬  I'm a student of Electrical and Electronic Engineering at Inönü University and I'm Junior Developer. I really enjoy learning languages and framework like C#,Java,Html,TypeScript and other. 👨‍💻 
 <br/> <br/>
 
-<h4 align="center">You could contact me using those links.</h4>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ibrahim-halil-isik/" target="_blank" rel="nofollow"><img alt="ibrahim's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ibrahimh.isik0272@gmail.com" target="_blank" rel="nofollow"><img alt="ibrahim's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- </p>
-<br/><br/>
-
  <details>
    <summary> 🌟 GitHub Stats</summary>
   
@@ -18,6 +11,14 @@
 ![ibrahim's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimhalil-isik&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimhalil-isik&theme=tokyonight)
 </details>
 
+
+<br/><br/>
+<h4 align="center">You could contact me using those links.</h4>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ibrahim-halil-isik/" target="_blank" rel="nofollow"><img alt="ibrahim's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ibrahimh.isik0272@gmail.com" target="_blank" rel="nofollow"><img alt="ibrahim's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ </p>
+<br/><br/>
 -------------------------------------------------------------------------------
 
 <h3 align="center"> 🛠 Technologies & Tools 🛠 </h3>

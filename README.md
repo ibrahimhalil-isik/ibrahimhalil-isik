@@ -1,5 +1,5 @@
 ### Hi everybody 💻 
-###### I'm İbrahim Halil
+#### I'm İbrahim Halil
 💬  I'm a student of Electrical and Electronic Engineering at Inönü University and I'm Junior Developer. I really enjoy learning languages and framework like C#,Java,Html,TypeScript and other. 👨‍💻 
 <br/> <br/>
 <h3 align="center"> 🛠 Technologies & Tools 🛠 </h3>

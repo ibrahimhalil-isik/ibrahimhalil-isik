@@ -10,9 +10,11 @@
 
 ![ibrahim's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimhalil-isik&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimhalil-isik&theme=tokyonight)
 </details>
-
-
-<br/><br/>
+<br/>
+<div align="center">
+<a><img src="https://i.ibb.co/GMLbzkN/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67.gif" alt="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67" border="0"></a>
+</div>
+<br/>
 <h4 align="center">You could contact me using those links.</h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahim-halil-isik/" target="_blank" rel="nofollow"><img alt="ibrahim's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>

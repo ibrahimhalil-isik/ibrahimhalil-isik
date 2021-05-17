@@ -4,7 +4,7 @@
 <br/> <br/>
 
  <details>
- <summary> 🌟 GitHub Stats </summary>
+ <summary> 🌟 GitHub Stats 🌟 </summary>
  
  
 ### [![Github](https://img.shields.io/github/followers/ibrahimhalil-isik?label=Follow&style=social)](https://github.com/ibrahimhalil-isik)

@@ -15,7 +15,7 @@
 </details>
 <br/>
 <div align="center">
-<a><img src="https://i.ibb.co/GMLbzkN/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67.gif" alt="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67" border="0"></a>
+  <a><img src="https://www.uweta.com/wp-content/uploads/2021/02/Web-Tasarim.gif" alt="" border="0" width="500" height="350"></a>
 </div>
 <br/>
 <h4 align="center">You could contact me using those links.</h4>
@@ -23,8 +23,9 @@
   <a href="https://www.linkedin.com/in/ibrahim-halil-isik/" target="_blank" rel="nofollow"><img alt="ibrahim's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ibrahimh.isik0272@gmail.com" target="_blank" rel="nofollow"><img alt="ibrahim's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  </p>
--------------------------------------------------------------------------------
-<br/>
+ 
+--------------------------------------------------------------------------------------------------------------------------------------------------
+ 
 <h3 align="center"> 🛠 Technologies & Tools 🛠 </h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/> 

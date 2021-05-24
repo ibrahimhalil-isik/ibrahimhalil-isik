@@ -23,9 +23,7 @@
   <a href="https://www.linkedin.com/in/ibrahim-halil-isik/" target="_blank" rel="nofollow"><img alt="ibrahim's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ibrahimh.isik0272@gmail.com" target="_blank" rel="nofollow"><img alt="ibrahim's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  </p>
- 
---------------------------------------------------------------------------------------------------------------------------------------------------
- 
+ <hr> 
 <h3 align="center"> 🛠 Technologies & Tools 🛠 </h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/> 

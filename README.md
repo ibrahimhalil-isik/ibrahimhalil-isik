@@ -1,4 +1,11 @@
+
+<div align="center">
+  <a><img src="https://i.pinimg.com/originals/4f/1a/4d/4f1a4d0e123668379f118b2f734c1e5c.gif" alt="" border="0" width="1000" height="700"></a>
+
+</div>
+
 ### Hi everybody 💻
+
 #### I'm İbrahim Halil
 💬  I'm a student of Electrical and Electronic Engineering at Inönü University and I'm Junior Developer. I really enjoy learning languages and framework like C#,Java,Html,TypeScript and other. 👨‍💻 
 <br/> <br/>
